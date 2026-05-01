@@ -19,7 +19,7 @@ import { RestaurantModule } from './restaurant/restaurant.module';
         host: 'localhost',
         port: 3306,
         username: 'root',
-        password: '@Shewolf1',
+        password: '@Password123',
         database: 'restaurantDB',
         autoLoadEntities: true,
         synchronize: false,
